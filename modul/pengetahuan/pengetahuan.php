@@ -1,4 +1,4 @@
-<title>Pengetahuan - Chirexs 1.0</title>
+<title>Pengetahuan</title>
 <?php
 
 session_start();

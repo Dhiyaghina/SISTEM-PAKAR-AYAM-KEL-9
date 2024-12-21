@@ -1,4 +1,4 @@
-<title>Post - Chirexs 1.0</title>
+<title>Post</title>
 <script type="text/javascript">
     function Blank_TextField_Validator()
     {

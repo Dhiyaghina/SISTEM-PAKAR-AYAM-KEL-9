@@ -1,4 +1,4 @@
-<title>Diagnosa - Chirexs 1.0</title>
+<title>Diagnosa</title>
 <?php
 switch ($_GET['act']) {
 

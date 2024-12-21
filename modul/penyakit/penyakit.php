@@ -1,4 +1,4 @@
-<title>Penyakit - Chirexs 1.0</title>
+<title>Penyakit</title>
 <?php
 
 session_start();

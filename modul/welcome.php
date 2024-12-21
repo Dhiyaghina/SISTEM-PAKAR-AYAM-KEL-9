@@ -1,4 +1,4 @@
-<title>Beranda - Chirexs 1.0</title>
+<title>Beranda</title>
 <?php 
   $htgejala=mysql_query("SELECT count(*) as total from gejala");
 	$dtgejala=mysql_fetch_assoc($htgejala); ?>
